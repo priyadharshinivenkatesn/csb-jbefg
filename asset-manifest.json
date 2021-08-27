@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/css/main.c9ba97c2.chunk.css",
+    "main.js": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/main.c5a08b43.chunk.js",
+    "main.js.map": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/main.c5a08b43.chunk.js.map",
+    "runtime-main.js": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/runtime-main.d412df0b.js",
+    "runtime-main.js.map": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/runtime-main.d412df0b.js.map",
+    "static/js/2.09fe46f5.chunk.js": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/2.09fe46f5.chunk.js",
+    "static/js/2.09fe46f5.chunk.js.map": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/2.09fe46f5.chunk.js.map",
+    "index.html": "https://priyadharshinivenkatesn.github.io/csb-jbefg/index.html",
+    "static/css/main.c9ba97c2.chunk.css.map": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/css/main.c9ba97c2.chunk.css.map",
+    "static/js/2.09fe46f5.chunk.js.LICENSE.txt": "https://priyadharshinivenkatesn.github.io/csb-jbefg/static/js/2.09fe46f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d412df0b.js",
+    "static/js/2.09fe46f5.chunk.js",
+    "static/css/main.c9ba97c2.chunk.css",
+    "static/js/main.c5a08b43.chunk.js"
+  ]
+}
